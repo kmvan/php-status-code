@@ -3,7 +3,7 @@
   "description": "Http status code",
   "type": "library",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "autoload": {
     "psr-4": {
       "Kmvan\\StatusCode\\": "src/"
