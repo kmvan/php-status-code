@@ -1,0 +1,20 @@
+{
+  "name": "kmvan/status-code",
+  "description": "Http status code",
+  "type": "library",
+  "license": "MIT",
+  "version": "0.0.1",
+  "autoload": {
+    "psr-4": {
+      "Kmvan\\StatusCode\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Km.Van",
+      "email": "kmvan.com@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
